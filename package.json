@@ -1,5 +1,5 @@
 {
-  "name": "ise",
+  "name": "@chris5855/ise",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@10.6.2",
