@@ -1,7 +1,7 @@
 {
   "name": "@chris5855/ise",
   "type": "module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "packageManager": "pnpm@10.6.2",
   "description": "ISE is a type-safe, scalable state management library inspired by Immer for front-end apps. It offers a mutable-style API for immutable state, backed by TypeScript generics. Built for complex state, ISE optimizes performance with batching, sharding, and memoization.",
   "author": "Chris M. <chrisperezsantiago1@gmail.com>",
