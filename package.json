@@ -37,7 +37,8 @@
     "start": "tsx src/index.ts",
     "test": "vitest",
     "typecheck": "tsc --noEmit",
-    "prepare": "simple-git-hooks"
+    "prepare": "simple-git-hooks",
+    "publish": "bumpp && pnpm publish --access public"
   },
   "dependencies": {
     "effect": "catalog:"
