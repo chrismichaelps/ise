@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="public/ise-logo.png" alt="ISE Logo" width="200" style="border-radius: 12px;" />
+</div>
+
+<div align="center">
 <h1>Immutable State Effect (ISE)</h1>
 ISE is a type-safe, scalable state management library inspired by Immer for front-end apps. It offers a mutable-style API for immutable state, backed by TypeScript generics. Built for complex state, ISE optimizes performance with batching, sharding, and memoization.
 </div>
