@@ -40,9 +40,6 @@
     "prepare": "simple-git-hooks",
     "publish": "bumpp && pnpm publish --access public"
   },
-  "dependencies": {
-    "effect": "catalog:"
-  },
   "devDependencies": {
     "@antfu/eslint-config": "catalog:cli",
     "@antfu/ni": "catalog:cli",
